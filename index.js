@@ -83,3 +83,16 @@
 
 // let a = 12 ;
 // console.log(a)
+
+// const pi = Math.PI;
+// console.log(pi)
+
+// let a = 32;
+// a = 50;
+// console.log(a);
+
+// console.log(typeof null);
+
+// var a;
+// console.log(typeof a)      //undined ka type undefine
+
