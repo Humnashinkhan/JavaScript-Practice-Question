@@ -47,7 +47,7 @@
 // console.log ([1,2,3] == [1,2,3]);
 
 
-// console.log("5" + 3) it will concatenate two string output is 53 and it will convert the no int string(in case of Addition) 
+// console.log("5" + 3) it will concatenate two string output is 53 and it will convert the no into string(in case of Addition) 
 // console.log('5' - 3) behind the scene js is a typer convserion it automatically coverts
 // the string into a number(in case of Subtraction )
 
@@ -95,4 +95,15 @@
 
 // var a;
 // console.log(typeof a)      //undined ka type undefine
+
+// for(var i= 1; i<51; i++){
+//     console.log(i);
+
+// }
+
+// const arr = ["sanam teri kasam", "Dilwale", "dhadak", "dhadkan", "Rabta"];
+// arr.forEach(function(value) {
+//     console.log(value);
+// })
+  
 
